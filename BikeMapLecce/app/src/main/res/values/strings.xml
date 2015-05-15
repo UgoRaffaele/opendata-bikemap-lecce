@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">BikeMap Lecce</string>
+
+    <string name="title_activity">BikeMap</string>
+
+    <string name="switch_gps">GPS&#160;</string>
+    <string name="credits">Credits</string>
+    <string name="share">Condividi</string>
+
+    <string name="user_location_not_enabled">Posizione utente non disponibile, L\'app potrebbe non funzionare come desideri!</string>
+    <string name="user_location_open_settings">Impostazioni</string>
+
+    <string name="credits_developed_by">Developed by\nUgo Raffaele Piemontese</string>
+    <string name="developed_by_link">http://www.ugopiemontese.eu</string>
+    <string name="credits_data_provided_by">Dataset provided by\nComune di Lecce</string>
+    <string name="credits_data_link">http://dati.comune.lecce.it</string>
+
+</resources>
